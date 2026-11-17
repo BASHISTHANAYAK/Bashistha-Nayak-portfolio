@@ -42,7 +42,7 @@ export const PERSONAL_INFO = {
   email: "bashisthanayak09@gmail.com",
   github: "https://github.com/BASHISTHANAYAK",
   linkedin: "https://www.linkedin.com/in/bashisthanayak",
-  resumeUrl: "https://drive.google.com/file/d/1sdWJEPIE9veAfcwX7E_u6jJWZ6s8AYx8/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/1TUtNyqZYYUYjMbgSOKZlbCJPWjv6NGJC/view?usp=sharing",
   location: "India",
   status: "Available for full-time opportunities",
 };
